@@ -2,7 +2,7 @@
 
 This is a simple To-Do application built using ReactJS and Redux for state management. The application allows users to add, view, and delete tasks.
 # Deployment Link
-https://to-do-app-saikrishna1506.vercel.app/
+Website: https://to-do-app-saikrishna1506.vercel.app/
 ## Features
 
 - Add new tasks
